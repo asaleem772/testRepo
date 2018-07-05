@@ -6,4 +6,5 @@ import (
 
 func main() {
 	fmt.Println("Yahoo ! Git Set")
+	//	user.helloUser()
 }
